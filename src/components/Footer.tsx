@@ -59,7 +59,7 @@ export function Footer({ onPageChange }: FooterProps) {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-4">
               <img 
-                src="figma:asset/aeef2ee42016a2f3deb8c9644efeb22f354df516.png"
+                src="src/assets/dbca58e50f0fb116396e12502de22981a7611dba.png"
                 alt="Investyc Logo"
                 className="w-8 h-8 mr-3 filter brightness-0 invert"
               />
