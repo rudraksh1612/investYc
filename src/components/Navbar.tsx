@@ -34,7 +34,7 @@ export function Navbar({ currentPage, onPageChange, isAuthenticated = false, use
           >
             <div className="w-10 h-10 mr-3 relative">
               <img 
-                src="https://github.com/rudraksh1612/investYc/blob/main/src/assets/dbca58e50f0fb116396e12502de22981a7611dba.png?raw=true"
+                src="src/assets/dbca58e50f0fb116396e12502de22981a7611dba.png"
                 alt="Investyc Logo" 
                 className="w-full h-full object-contain filter brightness-100 group-hover:brightness-100 group-hover:filter-none transition-all duration-300"
               />
