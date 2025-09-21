@@ -61,7 +61,7 @@ export function Footer({ onPageChange }: FooterProps) {
               <img 
                 src="src/assets/dbca58e50f0fb116396e12502de22981a7611dba.png"
                 alt="Investyc Logo"
-                className="w-8 h-8 mr-3 filter brightness-0 invert"
+                className="w-8 h-8 mr-3"
               />
               <span className="text-xl font-semibold text-foreground">Investyc</span>
             </div>
