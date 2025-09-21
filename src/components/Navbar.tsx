@@ -34,7 +34,7 @@ export function Navbar({ currentPage, onPageChange, isAuthenticated = false, use
           >
             <div className="w-10 h-10 mr-3 relative">
               <img 
-                src="src\assets\dbca58e50f0fb116396e12502de22981a7611dba.png"
+                src="https://4kwallpapers.com/black-dark/lord-hanuman-black-14679.html"
                 alt="Investyc Logo" 
                 className="w-full h-full object-contain filter brightness-100 group-hover:brightness-100 group-hover:filter-none transition-all duration-300"
               />
